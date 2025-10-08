@@ -1,8 +1,11 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.1",
   "app": "GameHub OS",
-  "build": 1,
-  "release_date": "2025-01-10",
-  "last_check": null,
-  "changelog": "first beta"
+  "build": 2,
+  "release_date": "2024-01-15",
+  "download_url": "https://github.com/jdjdhdcbfgghh8845/data-base-/blob/main/game.zip",
+  "changelog": "## Version 1.0.1\n\n### New Features\n- Added auto-update system\n- Improved game scanning algorithm\n- New achievements added\n\n### Bug Fixes\n- Fixed RAM optimization on Windows 11\n- Fixed Telegram chat connection issues\n- Fixed theme switching bugs\n\n### Improvements\n- Faster startup time\n- Better error handling\n- Optimized database queries",
+  "minimum_version": "1.0.0",
+  "critical": false,
+  "notes": "This update includes important bug fixes and performance improvements."
 }
