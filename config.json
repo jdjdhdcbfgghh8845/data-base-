@@ -1,0 +1,11 @@
+{
+    "bot_token": "8590688950:AAF41FNLvhRGjxw3UQLyDDzCazMc6cCl2Jo",
+    "allowed_users": [
+        1854451325
+    ],
+    "stream_fps": 1,
+    "screenshot_quality": 85,
+    "stealth_mode": true,
+    "auto_delete_screenshots": true,
+    "log_file": "bot.log"
+}
